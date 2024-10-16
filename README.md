@@ -15,7 +15,12 @@ I also loaded the corresponding DistilGPT2 tokenizer, ensuring proper tokenizati
 ### 1.2. Dataset: SST-2 from GLUE Benchmark:
 
 The Stanford Sentiment Treebank (SST-2) dataset from the GLUE benchmark was used for training and evaluation. SST-2 is a sentiment classification dataset consisting of movie reviews, where each review is labeled as either positive (1) or negative (0).
-Given that the dataset exhibited a slight imbalance between the number of positive and negative samples, additional steps were taken to mitigate this imbalance. In essence , I used the F2 score that gives more relevance to false negatives.
+Given that the dataset exhibited a slight imbalance between the number of positive and negative samples, additional steps were taken to mitigate this imbalance. In essence , I used the F2 score that gives more relevance to false negatives. The next articles were crucial to handle imbalance classes.
+
+https://machinelearningmastery.com/types-of-classification-in-machine-learning/
+https://machinelearningmastery.com/tour-of-evaluation-metrics-for-imbalanced-classification/
+https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/
+
 
 ### 1.3 Applying LoRA for Parameter-Efficient Fine-Tuning:
 
