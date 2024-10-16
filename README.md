@@ -1,7 +1,7 @@
 # Generative AI
 This repository contains a collection of generative AI models and applications designed for various tasks such as text generation, image synthesis, and style transfer. The models leverage cutting-edge architectures like GPT, GANs, and VAEs, enabling users to explore different generative tasks.
 
-## 1.0 LoRA (Low-Rank Adaptation) to fine-tune Foundation Model
+## 1 LoRA (Low-Rank Adaptation) to fine-tune Foundation Model
 
 
 In this project - [notebook](https://github.com/etechoptimist/generative_ai/blob/master/peft_foundationmodels_adaptation/LightweightFineTuning.ipynb), I utilized LoRA (Low-Rank Adaptation) to fine-tune DistilGPT2, a foundation model, for a sequence classification task using the SST-2 dataset from the GLUE benchmark. The following steps were performed to implement and adapt the model efficiently:
