@@ -4,7 +4,7 @@ This repository contains a collection of generative AI models and applications d
 ## 1.0 LoRA (Low-Rank Adaptation) to fine-tune Foundation Model
 
 
-In this project ([notebook)[https://github.com/etechoptimist/generative_ai/blob/master/peft_foundationmodels_adaptation/LightweightFineTuning.ipynb], I utilized LoRA (Low-Rank Adaptation) to fine-tune DistilGPT2, a foundation model, for a sequence classification task using the SST-2 dataset from the GLUE benchmark. The following steps were performed to implement and adapt the model efficiently:
+In this project - [notebook](https://github.com/etechoptimist/generative_ai/blob/master/peft_foundationmodels_adaptation/LightweightFineTuning.ipynb), I utilized LoRA (Low-Rank Adaptation) to fine-tune DistilGPT2, a foundation model, for a sequence classification task using the SST-2 dataset from the GLUE benchmark. The following steps were performed to implement and adapt the model efficiently:
 
 ### 1.1.Model and Tokenizer Setup:
 
