@@ -38,7 +38,7 @@ After training, I evaluated the model’s performance on the validation set, foc
 Finally, I saved the fine-tuned LoRA model using the PeftModel.save_pretrained() method, making it available for further inference or fine-tuning tasks.
 
 ## Connect with me:
-[![GitHub icon](https://img.icons8.com/ios-filled/50/000000/github.png)](https://github.com/etechoptimist) | [![LinkedIn icon](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://linkedin.com/in/etechoptimist) | [![Twitter icon](https://img.icons8.com/ios-filled/50/000000/twitter.png)](https://twitter.com/etechoptimist) | [![Hugging Face](https://huggingface.co/front/assets/huggingface_logo.svg)](https://huggingface.co/etechoptimist)
+[![GitHub icon](https://img.icons8.com/ios-filled/50/000000/github.png)](https://github.com/etechoptimist) | [![LinkedIn icon](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://linkedin.com/in/etechoptimist) | [![Twitter icon](https://img.icons8.com/ios-filled/50/000000/twitter.png)](https://twitter.com/etechoptimist) | [![Hugging Face](https://img.icons8.com/fluency/50/000000/hugging-face.png)](https://huggingface.co/etechoptimist)
 
 ---
 Explore more articles on [Medium](https://medium.com/@etechoptimist) and follow my GitHub for AI projects.
