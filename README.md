@@ -36,3 +36,9 @@ The training loop was configured to evaluate F2 Score  at each epoch, and I ensu
 
 After training, I evaluated the model’s performance on the validation set, focusing on F2-score to measure how well the model handled false negatives.
 Finally, I saved the fine-tuned LoRA model using the PeftModel.save_pretrained() method, making it available for further inference or fine-tuning tasks.
+
+## Connect with me:
+[![GitHub icon](https://img.icons8.com/ios-filled/50/000000/github.png)](https://github.com/etechoptimist) | [![LinkedIn icon](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://linkedin.com/in/etechoptimist) | [![Twitter icon](https://img.icons8.com/ios-filled/50/000000/twitter.png)](https://twitter.com/etechoptimist) | [![Hugging Face](https://huggingface.co/front/assets/huggingface_logo.svg)](https://huggingface.co/etechoptimist)
+
+---
+Explore more articles on [Medium](https://medium.com/@etechoptimist) and follow my GitHub for AI projects.
