@@ -2,10 +2,11 @@
 This repository contains a collection of generative AI models and applications designed for various tasks such as text generation, image synthesis, and style transfer. The models leverage cutting-edge architectures like GPT, GANs, and VAEs, enabling users to explore different generative tasks.
 
 
-	| Project | Description |
+| Project | Description |
 | ----------- | ----------- |
 | LoRA (Low-Rank Adaptation) | LoRA (Low-Rank Adaptation) to fine-tune Foundation Model |
 | GenAI ChatBot | Anmswering Questioning Chatbot |
+
 
 ## 1 LoRA (Low-Rank Adaptation) to fine-tune Foundation Model
 
@@ -52,7 +53,7 @@ For this chatbot project, I chose the nyc_food_scrap_drop_off_sites dataset, whi
 
 With this information, the chatbot can help users find the nearest drop-off spots, check when they’re open, and see who runs them. Since food scrap drop-off supports waste reduction, this chatbot could also help users learn more about sustainable practices. This dataset allows the chatbot to give clear, useful answers about food scrap disposal in NYC.
 
-[Drop-Off Sites in New York City](https://nbviewer.org/github/etechoptimist/generative_ai/blob/master/question_answering/chatbot.ipynb)
+[Drop-Off Sites in New York City-Maps](https://nbviewer.org/github/etechoptimist/generative_ai/blob/master/question_answering/chatbot.ipynb)
 
 
 ### 2.1 Project Overview
