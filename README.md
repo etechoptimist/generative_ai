@@ -1,6 +1,12 @@
 # Generative AI
 This repository contains a collection of generative AI models and applications designed for various tasks such as text generation, image synthesis, and style transfer. The models leverage cutting-edge architectures like GPT, GANs, and VAEs, enabling users to explore different generative tasks.
 
+
+	| Project | Description |
+| ----------- | ----------- |
+| LoRA (Low-Rank Adaptation) | LoRA (Low-Rank Adaptation) to fine-tune Foundation Model |
+| GenAI ChatBot | Anmswering Questioning Chatbot |
+
 ## 1 LoRA (Low-Rank Adaptation) to fine-tune Foundation Model
 
 
@@ -36,6 +42,30 @@ The training loop was configured to evaluate F2 Score  at each epoch, and I ensu
 
 After training, I evaluated the model’s performance on the validation set, focusing on F2-score to measure how well the model handled false negatives.
 Finally, I saved the fine-tuned LoRA model using the PeftModel.save_pretrained() method, making it available for further inference or fine-tuning tasks.
+
+
+## 2 Generative AI Chatbot
+
+This repository contains a question-answering chatbot built with generative AI. The chatbot leverages NLP models to provide intelligent, conversational responses, and is implemented as a Jupyter notebook.
+
+For this chatbot project, I chose the nyc_food_scrap_drop_off_sites dataset, which lists food scrap drop-off sites in New York City. This dataset is a good fit because it includes important details like the location, opening hours, and the organization managing each site.
+
+With this information, the chatbot can help users find the nearest drop-off spots, check when they’re open, and see who runs them. Since food scrap drop-off supports waste reduction, this chatbot could also help users learn more about sustainable practices. This dataset allows the chatbot to give clear, useful answers about food scrap disposal in NYC.
+
+[Drop-Off Sites in New York City](https://nbviewer.org/github/etechoptimist/generative_ai/blob/master/question_answering/chatbot.ipynb)
+
+
+### 2.1 Project Overview
+The chatbot in this project demonstrates the use of generative AI for creating natural language responses to user input. It is suitable for various applications, including customer support, information retrieval, and personal assistance.
+
+**Features**
+- Natural Language Processing: Uses transformer-based models to generate conversational responses.
+- Interactive Notebook: Implemented in a Jupyter notebook for ease of use and experimentation.
+- Customizable: Can be fine-tuned for specific question-answering use cases.
+
+Acknowledgments
+Hugging Face for providing transformer models.
+OpenAI for GPT model architecture inspiration.
 
 ## Connect with me:
 [![GitHub icon](https://img.icons8.com/ios-filled/50/000000/github.png)](https://github.com/etechoptimist) | 
