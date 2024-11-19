@@ -85,6 +85,7 @@ Generate realistic or creative backgrounds based on user-provided descriptions.
 
 Invert the mask to keep the background while swapping out the main subject using text-based prompts.
 
+![](https://github.com/etechoptimist/generative_ai/blob/master/diffusers/images/figure_1.jpeg)
 
 Acknowledgments
 Hugging Face for providing transformer models.
