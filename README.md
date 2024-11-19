@@ -6,6 +6,8 @@ This repository contains a collection of generative AI models and applications d
 | ----------- | ----------- |
 | LoRA (Low-Rank Adaptation) | LoRA (Low-Rank Adaptation) to fine-tune Foundation Model |
 | GenAI ChatBot | Anmswering Questioning Chatbot |
+| Diffusers | Segmentation and conditioned Inpainting |
+
 
 
 ## 1 LoRA (Low-Rank Adaptation) to fine-tune Foundation Model
