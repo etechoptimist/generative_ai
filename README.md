@@ -66,6 +66,26 @@ The chatbot in this project demonstrates the use of generative AI for creating n
 - Interactive Notebook: Implemented in a Jupyter notebook for ease of use and experimentation.
 - Customizable: Can be fine-tuned for specific question-answering use cases.
 
+## 3 Diffusers
+This project is part of the GenAI Nanodegree, focusing on creating an interactive application for advanced image editing. Users can select objects within an image to change the background or replace the subject, leveraging cutting-edge AI models.
+
+### 3.1 Features
+
+**Object Selection and Masking:**
+
+Use the Segment Anything Model (SAM) to identify and mask objects within an uploaded image.
+Users can refine masks interactively for precision.
+
+**Background Replacement:**
+
+Replace the background with a newly generated scene using text-to-image diffusion models.
+Generate realistic or creative backgrounds based on user-provided descriptions.
+
+**Subject Replacement:**
+
+Invert the mask to keep the background while swapping out the main subject using text-based prompts.
+
+
 Acknowledgments
 Hugging Face for providing transformer models.
 OpenAI for GPT model architecture inspiration.
