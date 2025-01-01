@@ -40,3 +40,9 @@ This project implements the RAG architecture in the following way:
 
 ![RAG Architecture](https://github.com/etechoptimist/generative_ai/blob/master/real_state_rag/assets/rag.jpg)
 
+<figure>
+    <img src="https://github.com/etechoptimist/generative_ai/blob/master/real_state_rag/assets/rag.jpg"
+         alt="Taken from DeepLearning course: LangChain Chat with Your Data">
+    <figcaption>Taken from DeepLearning course: LangChain Chat with Your Data.</figcaption>
+</figure>
+
