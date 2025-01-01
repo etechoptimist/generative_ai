@@ -38,5 +38,5 @@ This project implements the RAG architecture in the following way:
 
 ## Technical Architecture
 
-![RAG Architecture](https://assets.digitalocean.com/articles/alligator/boo.svg)
+![RAG Architecture](https://github.com/etechoptimist/generative_ai/blob/master/real_state_rag/assets/rag.jpg)
 
