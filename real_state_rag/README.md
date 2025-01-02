@@ -1,5 +1,18 @@
 # HomeMatch: Personalized Real Estate Listings using RAG
 
+## Prerequisites
+- Python 3.8+
+- OpenAI API key
+- ChromaDB
+- Required Python packages (see requirements.txt)
+
+## Installation
+
+- Create and activate a virtual environment (recommended)
+- Install dependencies from requirements.txt
+pip install -r requirements.txt
+
+
 
 ## Project Overview
 HomeMatch is an  real estate agent that leverages RAG (Retrieval Augmented Generation) to create personalized property recommendations. It transforms standard property listings into  narratives that match buyers' specific preferences and needs.
