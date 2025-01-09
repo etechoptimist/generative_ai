@@ -1,5 +1,9 @@
 langchain
 langchain_community
+langchain_experimental
+duckduckgo-search
 chromadb
 tiktoken
 load_dotenv
+torch
+open_clip_torch
